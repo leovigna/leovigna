@@ -1,6 +1,6 @@
 {
     "name": "@leovigna/sol-datastructs",
-    "version": "0.0.1",
+    "version": "0.0.2-alpha.0",
     "description": "SQL for Ethereum smart contracts. Makes storage and relationship management as easy as SQL commands.",
     "author": "Leo Vigna",
     "license": "MIT",
@@ -26,8 +26,6 @@
     "files": [
         "src/**/*"
     ],
-    "devDependencies": {},
-    "dependencies": {},
     "publishConfig": {
         "access": "public"
     }
