@@ -1,0 +1,3 @@
+[submodule "sol-sql"]
+	path = packages/sol-sql
+	url = https://github.com/leovigna/sol-sql.git
