@@ -1,5 +1,5 @@
 {
-    "name": "test-package",
+    "name": "@leovigna/test-package",
     "version": "0.0.3-alpha.0",
     "description": "A test package.",
     "main": "index.js",
@@ -7,5 +7,6 @@
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "Leo Vigna",
-    "license": "MIT"
+    "license": "MIT",
+    "gitHead": "d71cd4f1c38137ccb91e98a4e6e0e902feae2b68"
 }
