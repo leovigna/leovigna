@@ -1,5 +1,6 @@
 {
     "name": "@leovigna/test-package",
+    "private": false,
     "version": "0.0.5-alpha.0",
     "description": "A test package.",
     "main": "index.js",
@@ -8,5 +9,5 @@
     },
     "author": "Leo Vigna",
     "license": "MIT",
-    "gitHead": "2a673bafa8632106cc5957ef229ea0ea4b70ba97"
+    "gitHead": "eda52f31cd6f71f20b34b8d4ca54aa16bd7846b3"
 }
