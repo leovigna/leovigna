@@ -1,0 +1,34 @@
+{
+    "name": "@leovigna/sol-datastructs",
+    "version": "0.0.1",
+    "description": "SQL for Ethereum smart contracts. Makes storage and relationship management as easy as SQL commands.",
+    "author": "Leo Vigna",
+    "license": "MIT",
+    "private": false,
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/leovigna/eth-sql.git"
+    },
+    "bugs": {
+        "url": "https://github.com/leovigna/eth-sql/issues"
+    },
+    "engines": {
+        "node": ">=10.0.0"
+    },
+    "keywords": [
+        "SQL",
+        "Ethereum",
+        "Solidity",
+        "orm",
+        "nodejs",
+        "object relational mapper"
+    ],
+    "files": [
+        "src/**/*"
+    ],
+    "devDependencies": {},
+    "dependencies": {},
+    "publishConfig": {
+        "access": "public"
+    }
+}
