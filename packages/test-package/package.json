@@ -9,5 +9,8 @@
     },
     "author": "Leo Vigna",
     "license": "MIT",
-    "gitHead": "eda52f31cd6f71f20b34b8d4ca54aa16bd7846b3"
+    "gitHead": "46102cd23850dd635be25d5a43505bf93b751155",
+    "publishConfig": {
+        "access": "public"
+    }
 }
